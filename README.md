@@ -16,68 +16,63 @@ Arts, cinema, sound and travels deeply inspire me, influencing both my professio
 
 ## 🎓 Education
 **2024 - Present | MSc in Music & Acoustic Engineering, Polytechnic University of Milan**  
-• Multi-disciplinary Master ranging from Computer Science to Telecommunications (signal processing and netwoks), from computational Acoustics to numerical modeling/analysis, from Electroacoustics to Vibrational and Room Acoustics.
-• Deep background to solve advanced problems related to Audio (musical signals, speech signals, or sound in general); Acoustics (sound and vibrational fields, as well as acoustic structures); and Music (representations and models of musical structures and content).
+- Multi-disciplinary Master ranging from Computer Science to Telecommunications (signal processing and netwoks), from computational Acoustics to numerical modeling/analysis, from Electroacoustics to Vibrational and Room Acoustics.
+- Deep background to solve advanced problems related to Audio (musical signals, speech signals, or sound in general); Acoustics (sound and vibrational fields, as well as acoustic structures); and Music (representations and models of musical structures and content).
 
 **Nov 2025 | Master of Music in Music for Films, Conservatory of Music "G.B. Martini" – Bologna**  
 Graduated 110/110 summa cum Laude (Honorable Mention)
-• Advanced training in music composition for film, TV, and multimedia, with a strong focus on music theory, sound design, music technology, video editing, and audio post-production.
-• Developed original artistic and research projects combining music and technology in applied and interdisciplinary contexts.
-• Gained hands-on experience in orchestral conducting and live recording sessions with professional musicians.
+- Advanced training in music composition for film, TV, and multimedia, with a strong focus on music theory, sound design, music technology, video editing, and audio post-production.
+- Developed original artistic and research projects combining music and technology in applied and interdisciplinary contexts.
+- Gained hands-on experience in orchestral conducting and live recording sessions with professional musicians.
 
 **March 2024 | Bachelor’s Degree in Computer Engineering, University of Bologna**  
-• Intensive courses on several aspects of software engineering, electronics, telecommunications, physics and mathematics.
-• Strong mathematical-logical footprint, as well as problem-solving and programming skills. 
+- Intensive courses on several aspects of software engineering, electronics, telecommunications, physics and mathematics.
+- Strong mathematical-logical footprint, as well as problem-solving and programming skills. 
 
 **Nov 2023 | Bachelor of Music in Applied Music, Conservatory of Music "G.B. Martini" – Bologna**  
 
-**July 2019 | Diploma, Liceo Classico "M. Minghetti"**  
-- High School Diploma, classical and ancient world studies.
-
 ---
 
-## 🛠️ Skills
+## 🛠️ Expertise & Courses
 
-### Audio & Music Production
-- Audio Programming & Signal Processing  
-- Audio Post-Production, Mixing & Mastering  
-- Music Composition, Arrangement & Orchestration  
-- Sound Design for Films, Games & Public Events  
-- Audio for Interactive Media & Plugin Development (VST / AU / AAX)  
-- Foley & ADR Recording  
-- DAWs: Reaper, Logic Pro, Pro Tools  
-- Acoustics & Psychoacoustics  
+### Audio / Music
+![Audio Programming](https://img.shields.io/badge/Audio%20Programming-%23007ACC) 
+![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%233A95E3) 
+![Audio Post-Production](https://img.shields.io/badge/Audio%20Post--Production-%23FF6347) 
+![Mixing & Mastering](https://img.shields.io/badge/Mixing%20%26%20Mastering-%238A2BE2) 
+![Composition & Orchestration](https://img.shields.io/badge/Composition%20%26%20Orchestration-%239ACD32) 
+![Sound Design](https://img.shields.io/badge/Sound%20Design-%23FF4500) 
+![Audio for Interactive Media](https://img.shields.io/badge/Interactive%20Audio-%231E90FF) 
+![Plugin Development](https://img.shields.io/badge/Plugin%20Dev-%2332CD32) 
+![Foley & ADR](https://img.shields.io/badge/Foley%20%26%20ADR-%23FF1493) 
+![DAWs](https://img.shields.io/badge/DAWs-%23FF8C00) 
+![Acoustics & Psychoacoustics](https://img.shields.io/badge/Acoustics%20%26%20Psychoacoustics-%2390EE90) 
 
-### Software Engineering & Programming
-- C, C++, C#  
-- Java, JavaScript, Python (Signal Analysis)  
-- MATLAB, Linux, Web Development  
-- Software Engineering, Debugging & Optimization  
-- Machine Learning for Audio  
+### Programming / Software
+![C](https://img.shields.io/badge/C-%2300599C) 
+![C++](https://img.shields.io/badge/C++-%2300599C) 
+![C#](https://img.shields.io/badge/C%23-%23239120) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E) 
+![Python](https://img.shields.io/badge/Python-%2314354C) 
+![MATLAB](https://img.shields.io/badge/MATLAB-%230C70A4) 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624) 
+![Web Development](https://img.shields.io/badge/Web%20Dev-%231E90FF) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF4500) 
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%233CB371) 
 
-### Professional & Collaborative Skills
-- Problem Solving & Analytical Thinking  
-- Cross-team Collaboration & Teamwork  
-- Project Management & Interactive Audio Systems (e.g., OR-BEAT, Hand2Hand)
-
----
-
-## 📚 Relevant Courses
-
-- Audio and Video Sound Editing and Post-Production  
-- Audio Recording and Capture Technologies and Techniques  
-- Composition for Visual Media  
-- Conducting Techniques  
-- Computer Graphics  
-- Computer Music  
-- Design and Implementation of Mobile Applications  
-- Electroacoustic Composition  
-- Fundamentals of Acoustics  
-- Multimedia Signal Processing  
-- Music Production Technologies  
-- Orchestration and Arrangement  
-- Sampling, Synthesis, and Digital Sound Processing  
-- Vibration Analysis and Vibroacoustics  
+### Courses & Topics
+![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-%238A2BE2) 
+![Computer Music](https://img.shields.io/badge/Computer%20Music-%231E90FF) 
+![Mobile App Dev](https://img.shields.io/badge/Mobile%20App%20Dev-%23FF6347) 
+![Acoustics](https://img.shields.io/badge/Acoustics-%23007ACC) 
+![Multimedia Signal Processing](https://img.shields.io/badge/Multimedia%20Signal%20Processing-%233A95E3) 
+![Music Production](https://img.shields.io/badge/Music%20Production-%239ACD32) 
+![Electroacoustic Composition](https://img.shields.io/badge/Electroacoustic%20Composition-%23FF1493) 
+![Orchestration & Arrangement](https://img.shields.io/badge/Orchestration%20%26%20Arrangement-%23FF8C00) 
+![Sampling & Synthesis](https://img.shields.io/badge/Sampling%20%26%20Synthesis-%231E90FF) 
+![Conducting Techniques](https://img.shields.io/badge/Conducting%20Techniques-%2390EE90) 
+![Audio/Video Post-Production](https://img.shields.io/badge/Audio%2FVideo%20Post--Production-%23FF4500) 
 
 ---
 
