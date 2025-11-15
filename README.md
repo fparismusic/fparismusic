@@ -22,6 +22,16 @@ Extensive coursework in software engineering, electronics, telecommunications, p
 ---
 
 ## 🛠️ Skills & Courses 
+![C](https://img.shields.io/badge/C-%239663FF) 
+![C++](https://img.shields.io/badge/C++-%23884DFF) 
+![C#](https://img.shields.io/badge/C%23-%236633FF) 
+![Java](https://img.shields.io/badge/Java-%234D19FF) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FF33CC) 
+![Python](https://img.shields.io/badge/Python-%23FF66AA) 
+![MATLAB](https://img.shields.io/badge/MATLAB-%23FF9966) 
+![Linux](https://img.shields.io/badge/Linux-%23FFCC66) 
+![Web Development](https://img.shields.io/badge/Web%20Dev-%23FFE066) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FFAA33) 
 
 ![Audio Programming](https://img.shields.io/badge/Audio%20Programming-%23007ACC) 
 ![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%230099FF) 
@@ -34,8 +44,6 @@ Extensive coursework in software engineering, electronics, telecommunications, p
 ![Foley & ADR](https://img.shields.io/badge/Foley%20%26%20ADR-%23AAFF00) 
 ![DAWs](https://img.shields.io/badge/DAWs-%2396FF00) 
 
----
-
 ![Audio/Video Post-Production](https://img.shields.io/badge/Audio%2FVideo%20Post--Production-%23FF4500) 
 ![Electroacoustic Composition](https://img.shields.io/badge/Electroacoustic%20Composition-%23FF6347) 
 ![Sampling & Synthesis](https://img.shields.io/badge/Sampling%20%26%20Synthesis-%23FF7F50) 
@@ -46,20 +54,6 @@ Extensive coursework in software engineering, electronics, telecommunications, p
 ![Fundamentals of Acoustics](https://img.shields.io/badge/Fundamentals%20of%20Acoustics-%23CCFFFF) 
 ![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-%2399FFFF) 
 ![Design and Implementation of Mobile Applications](https://img.shields.io/badge/Mobile%20App%20Dev-%2366FFFF) 
-
----
-
-![C](https://img.shields.io/badge/C-%239663FF) 
-![C++](https://img.shields.io/badge/C++-%23884DFF) 
-![C#](https://img.shields.io/badge/C%23-%236633FF) 
-![Java](https://img.shields.io/badge/Java-%234D19FF) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23FF33CC) 
-![Python](https://img.shields.io/badge/Python-%23FF66AA) 
-![MATLAB](https://img.shields.io/badge/MATLAB-%23FF9966) 
-![Linux](https://img.shields.io/badge/Linux-%23FFCC66) 
-![Web Development](https://img.shields.io/badge/Web%20Dev-%23FFE066) 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FFAA33) 
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%23FF7733) 
 
 ---
 
