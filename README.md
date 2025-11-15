@@ -1,14 +1,92 @@
-# 💫 About Me:
-🔭 I’m currently working on different tech projects<br>🌱 Computer and audio engineering<br>⚡ Fun fact: I watch a film a day!
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fparismusic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filippoparis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@fparismusic) 
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fparismusic&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fparismusic)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filippoparis)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@fparismusic)  
 
 ---
+
+## 📝 Profile
+Born in Bologna, I started my studies there before moving to Milan, where I am now completing my master’s degree.
+I'm a Computer Engineer driven by curiosity, a love for technology and problem-solving. I enjoy working in teams and tackling innovative challenges. 
+At the same time, I am also a musician. I studied Applied Music and Music for Films at the Conservatory of Bologna, and I find incredibly rewarding to create and work with music through the power of computers. 
+
+Arts, cinema, sound and travels deeply inspire me, influencing both my professional and creative journey.
+
+---
+
+## 🎓 Education
+**2024 - Present | MSc in Music & Acoustic Engineering, Polytechnic University of Milan**  
+• Multi-disciplinary Master ranging from Computer Science to Telecommunications (signal processing and netwoks), from computational Acoustics to numerical modeling/analysis, from Electroacoustics to Vibrational and Room Acoustics.
+• Deep background to solve advanced problems related to Audio (musical signals, speech signals, or sound in general); Acoustics (sound and vibrational fields, as well as acoustic structures); and Music (representations and models of musical structures and content).
+
+**Nov 2025 | Master of Music in Music for Films, Conservatory of Music "G.B. Martini" – Bologna**  
+Graduated 110/110 summa cum Laude (Honorable Mention)
+• Advanced training in music composition for film, TV, and multimedia, with a strong focus on music theory, sound design, music technology, video editing, and audio post-production.
+• Developed original artistic and research projects combining music and technology in applied and interdisciplinary contexts.
+• Gained hands-on experience in orchestral conducting and live recording sessions with professional musicians.
+
+**March 2024 | Bachelor’s Degree in Computer Engineering, University of Bologna**  
+• Intensive courses on several aspects of software engineering, electronics, telecommunications, physics and mathematics.
+• Strong mathematical-logical footprint, as well as problem-solving and programming skills. 
+
+**Nov 2023 | Bachelor of Music in Applied Music, Conservatory of Music "G.B. Martini" – Bologna**  
+
+**July 2019 | Diploma, Liceo Classico "M. Minghetti"**  
+- High School Diploma, classical and ancient world studies.
+
+---
+
+## 🛠️ Skills
+
+### Audio & Music Production
+- Audio Programming & Signal Processing  
+- Audio Post-Production, Mixing & Mastering  
+- Music Composition, Arrangement & Orchestration  
+- Sound Design for Films, Games & Public Events  
+- Audio for Interactive Media & Plugin Development (VST / AU / AAX)  
+- Foley & ADR Recording  
+- DAWs: Reaper, Logic Pro, Pro Tools  
+- Acoustics & Psychoacoustics  
+
+### Software Engineering & Programming
+- C, C++, C#  
+- Java, JavaScript, Python (Signal Analysis)  
+- MATLAB, Linux, Web Development  
+- Software Engineering, Debugging & Optimization  
+- Machine Learning for Audio  
+
+### Professional & Collaborative Skills
+- Problem Solving & Analytical Thinking  
+- Cross-team Collaboration & Teamwork  
+- Project Management & Interactive Audio Systems (e.g., OR-BEAT, Hand2Hand)
+
+---
+
+## 📚 Relevant Courses
+
+- Audio and Video Sound Editing and Post-Production  
+- Audio Recording and Capture Technologies and Techniques  
+- Composition for Visual Media  
+- Conducting Techniques  
+- Computer Graphics  
+- Computer Music  
+- Design and Implementation of Mobile Applications  
+- Electroacoustic Composition  
+- Fundamentals of Acoustics  
+- Multimedia Signal Processing  
+- Music Production Technologies  
+- Orchestration and Arrangement  
+- Sampling, Synthesis, and Digital Sound Processing  
+- Vibration Analysis and Vibroacoustics  
+
+---
+
+## 🌍 Languages
+- Italian (Native)  
+- English (IELTS 8.0 / C1)  
+- French (Basic)
+
+---
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
