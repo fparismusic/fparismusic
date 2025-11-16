@@ -37,7 +37,7 @@
       </td>
       <td align="center">
         <a href="#">
-          <img src="./img/msc.jpg" alt="MSc Music & Acoustic Engineering" style="width:160px; max-width:100%; height:auto;" />
+          <img src="./img/msc.png" alt="MSc Music & Acoustic Engineering" style="width:160px; max-width:100%; height:auto;" />
         </a>
       </td>
     </tr>
