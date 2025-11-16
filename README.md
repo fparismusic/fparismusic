@@ -1,8 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5AA0C8&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=1E90FF&width=435&lines=Hello%20there!%F0%9F%91%8B%20it's%20Filippo%20Paris" alt="Filippo Paris"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=1E90FF&width=435&lines=%F0%9F%94%A5%20Hello%20there!%20it's%20Filippo%20Paris%20" alt="Filippo Paris"/>
 </a>
+
+I'm a <br>
+💻<em> Software Engineering</em> <br>
+🎛️<em> Audio Programmer</em> <br>
+🎶<em> Sound Designer & Music Composer</em> <br>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filippoparis)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@fparismusic)
@@ -67,6 +73,8 @@
 </table>
 </div>
 
+---
+ 
 <h2 align="center">🛠️ Tech and Main Skills </h2>
 
 ###
@@ -100,5 +108,23 @@
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1TrNwq5DpZ51ZnZ_wljH-d9rHOxg40E3b/view?usp=sharing" download>Download my resume</a>
 
-## ✍️ Random Dev Quote
+---
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fparismusic&layout=compact&theme=tokyonight&hide=html" width="100%"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://streak-stats.demolab.com/?user=burnt-exe&theme=tokyonight" width="100%"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fparismusic&theme=tokyonight" width="100%"/></td>
+    </tr>
+  </table>
+</div>
+
+## 🧠 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+<div align="center">
+  <blockquote><em>“I'm testing the limits of what a mind can do.”</em></blockquote>
+  <p>© 2025 <a href="https://linktr.ee/filippoparis">Filippo Paris</a></p>
+</div>
