@@ -19,7 +19,7 @@
 **2025** | MMus in **Music for Films, Conservatory "G.B. Martini" – Bologna**  
 <sub>Focus on composition for film/TV, sound design, music technology, video editing, and live orchestral recording.</sub>
 
-**2024** | BSc in **Computer Engineering, University of Bologna**  
+**2024** | BSc in **Computer Engineering, Alma Mater University of Bologna**  
 <sub>Extensive coursework in software engineering, electronics, telecommunications, physics, and mathematics; strong problem-solving and programming foundation.</sub>
 
 **2023** | BMus in **Applied Music, Conservatory "G.B. Martini" – Bologna**  
