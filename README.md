@@ -45,23 +45,23 @@
     
 <!-- Text Row -->
 <td align="center" valign="top">
-  🗓️ 2023 Bsc <strong>Applied Music</strong><br/>
-  <a href="https://consbo.it/insegnamenti/musica-applicata-triennio/" target="_blank">Reference</a>
+  🗓️ 2023 BMus <strong>Applied Music</strong><br/>
+  🔗 <a href="https://consbo.it/insegnamenti/musica-applicata-triennio/" target="_blank">Reference</a>
 </td>
 
 <td align="center" valign="top">
-  🗓️ 2024 Bsc <strong>Computer Engineering</strong<br/>
-  <a href="https://corsi.unibo.it/laurea/IngegneriaInformatica" target="_blank">Reference</a>
+  🗓️ 2024 Bsc <strong>Computer Engineering</strong><br/>
+  🔗 <a href="https://corsi.unibo.it/laurea/IngegneriaInformatica" target="_blank">Reference</a>
 </td>
 
 <td align="center" valign="top">
   🗓️ 2025 MMus <strong>Music for Films</strong><br/>
-  <a href="https://consbo.it/insegnamenti/musica-applicata-ind-musica-per-film-biennio/" target="_blank">Reference</a>
+  🔗 <a href="https://consbo.it/insegnamenti/musica-applicata-ind-musica-per-film-biennio/" target="_blank">Reference</a>
 </td>
 
 <td align="center" valign="top">
   🗓️ Present Msc <strong>Music & Acoustic Engineering</strong><br/>
-  <a href="https://www.polimi.it/formazione/corsi-di-laurea-magistrale/dettaglio-corso/music-and-acoustic-engineering" target="_blank">Reference</a>
+  🔗 <a href="https://www.polimi.it/formazione/corsi-di-laurea-magistrale/dettaglio-corso/music-and-acoustic-engineering" target="_blank">Reference</a>
 </td>
 </tr>
 </table>
