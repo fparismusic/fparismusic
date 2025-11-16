@@ -14,7 +14,7 @@
 
 ###
 **Present** | MSc in **Music & Acoustic Engineering, Polytechnic University of Milan**  
-<sub>Multi-disciplinary master covering Computer Science, Telecommunications, Electroacoustics, Vibrational & Room Acoustics, and computational methods for Audio, Acoustics, and Music.</sub>
+<sub>Multi-disciplinary master covering Computer Science, Telecommunications, Electroacoustics, Vibrational & Room Acoustics, and computational methods for Audio and Music.</sub>
 
 **2025** | MMus in **Music for Films, Conservatory "G.B. Martini" – Bologna**  
 <sub>Focus on composition for film/TV, sound design, music technology, video editing, and live orchestral recording.</sub>
