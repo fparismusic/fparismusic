@@ -13,17 +13,16 @@
 <h2 align="center">🎓 Education </h2>
 
 ###
+**Present** | MSc in **Music & Acoustic Engineering, Polytechnic University of Milan**  
+<sub>Multi-disciplinary master covering Computer Science, Telecommunications, Electroacoustics, Vibrational & Room Acoustics, and computational methods for Audio, Acoustics, and Music.</sub>
 
-Present | MSc in **Music & Acoustic Engineering, Polytechnic University of Milan** <br> 
-Multi-disciplinary master covering Computer Science, Telecommunications, Electroacoustics, Vibrational & Room Acoustics, and computational methods for Audio, Acoustics, and Music.
+**2025** | MMus in **Music for Films, Conservatory "G.B. Martini" – Bologna**  
+<sub>Focus on composition for film/TV, sound design, music technology, video editing, and live orchestral recording.</sub>
 
-2025 | Master of Music in **Music for Films, Conservatory "G.B. Martini" – Bologna** <br>
-Focus on composition for film/TV, sound design, music technology, video editing, and live orchestral recording.
+**2024** | BSc in **Computer Engineering, University of Bologna**  
+<sub>Extensive coursework in software engineering, electronics, telecommunications, physics, and mathematics; strong problem-solving and programming foundation.</sub>
 
-2024 | Bachelor’s Degree in **Computer Engineering, University of Bologna** <br>
-Extensive coursework in software engineering, electronics, telecommunications, physics, and mathematics; strong problem-solving and programming foundation.
-
-2023 | Bachelor of Music in **Applied Music, Conservatory "G.B. Martini" – Bologna**  
+**2023** | BMus in **Applied Music, Conservatory "G.B. Martini" – Bologna**  
 
 ###
 
@@ -54,7 +53,11 @@ Extensive coursework in software engineering, electronics, telecommunications, p
 [![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%23FFCC2F?logoColor=white)]()
 [![Sound Design](https://img.shields.io/badge/Sound%20Design-%23FFCC2F?logoColor=white)]()
 
----
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1TrNwq5DpZ51ZnZ_wljH-d9rHOxg40E3b/view?usp=sharing" download>Download my resume</a>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
