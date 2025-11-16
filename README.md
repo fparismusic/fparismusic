@@ -8,23 +8,60 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@fparismusic)
 [![Instagram](https://img.shields.io/badge/Instagram-%23FFD700.svg?logo=Instagram&logoColor=white)](https://instagram.com/fparismusic)
 
-###
+<h2 align="center">🎓 Education</h2>
 
-<h2 align="center">🎓 Education </h2>
-
-###
-**Present** | MSc in **Music & Acoustic Engineering, Polytechnic University of Milan**  
-<sub>Multi-disciplinary master covering Computer Science, Telecommunications, Electroacoustics, Vibrational & Room Acoustics, and computational methods for Audio and Music.</sub>
-
-**2025** | MMus in **Music for Films, Conservatory "G.B. Martini" – Bologna**  
-<sub>Focus on composition for film/TV, sound design, music technology, video editing, and live orchestral recording.</sub>
-
-**2024** | BSc in **Computer Engineering, Alma Mater University of Bologna**  
-<sub>Extensive coursework in software engineering, electronics, telecommunications, physics, and mathematics; strong problem-solving and programming foundation.</sub>
-
-**2023** | BMus in **Applied Music, Conservatory "G.B. Martini" – Bologna**  
-
-###
+<div align="center">
+  <table style="width:100%; table-layout:fixed;">
+    <colgroup>
+      <col style="width:25%">
+      <col style="width:25%">
+      <col style="width:25%">
+      <col style="width:25%">
+    </colgroup>
+    <tr>
+      <!-- Logo Row -->
+      <td align="center">
+        <a href="#">
+          <img src="./img/cons.png" alt="BMus Applied Music" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="./img/bsc.png" alt="BSc Computer Engineering" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="./img/cons.png" alt="MMus Music for Films" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="./img/msc.png" alt="MSc Music & Acoustic Engineering" style="width:120px; max-width:100%; height:auto;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- Text Row -->
+      <td align="center" valign="top">
+        🗓️ 2023 <br/>
+        BMus Applied Music
+      </td>
+      <td align="center" valign="top">
+        🗓️ 2024 <br/>
+        BSc Computer Engineering
+      </td>
+      <td align="center" valign="top">
+        🗓️ 2025 <br/>
+        MMus Music for Films
+      </td>
+      <td align="center" valign="top">
+        🗓️ Present <br/>
+        MSc Music & Acoustic Engineering
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2 align="center">🛠️ Tech and Main Skills </h2>
 
