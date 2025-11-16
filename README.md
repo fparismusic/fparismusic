@@ -22,45 +22,49 @@
       <!-- Logo Row -->
       <td align="center">
         <a href="#">
-          <img src="./img/cons.png" alt="BMus Applied Music" style="width:120px; max-width:100%; height:auto;" />
+          <img src="./img/cons.png" alt="BMus Applied Music" style="width:160px; max-width:100%; height:auto;" />
         </a>
       </td>
       <td align="center">
         <a href="#">
-          <img src="./img/bsc.png" alt="BSc Computer Engineering" style="width:120px; max-width:100%; height:auto;" />
+          <img src="./img/bsc.png" alt="BSc Computer Engineering" style="width:160px; max-width:100%; height:auto;" />
         </a>
       </td>
       <td align="center">
         <a href="#">
-          <img src="./img/cons.png" alt="MMus Music for Films" style="width:120px; max-width:100%; height:auto;" />
+          <img src="./img/cons.png" alt="MMus Music for Films" style="width:160px; max-width:100%; height:auto;" />
         </a>
       </td>
       <td align="center">
         <a href="#">
-          <img src="./img/msc.png" alt="MSc Music & Acoustic Engineering" style="width:120px; max-width:100%; height:auto;" />
+          <img src="./img/msc.jpg" alt="MSc Music & Acoustic Engineering" style="width:160px; max-width:100%; height:auto;" />
         </a>
       </td>
     </tr>
-    <tr>
-      <!-- Text Row -->
-      <td align="center" valign="top">
-        🗓️ 2023 <br/>
-        BMus Applied Music
-      </td>
-      <td align="center" valign="top">
-        🗓️ 2024 <br/>
-        BSc Computer Engineering
-      </td>
-      <td align="center" valign="top">
-        🗓️ 2025 <br/>
-        MMus Music for Films
-      </td>
-      <td align="center" valign="top">
-        🗓️ Present <br/>
-        MSc Music & Acoustic Engineering
-      </td>
-    </tr>
-  </table>
+<tr>
+    
+<!-- Text Row -->
+<td align="center" valign="top">
+  🗓️ 2023 Bsc <strong>Applied Music</strong><br/>
+  <a href="https://consbo.it/insegnamenti/musica-applicata-triennio/" target="_blank">Reference</a>
+</td>
+
+<td align="center" valign="top">
+  🗓️ 2024 Bsc <strong>Computer Engineering</strong<br/>
+  <a href="https://corsi.unibo.it/laurea/IngegneriaInformatica" target="_blank">Reference</a>
+</td>
+
+<td align="center" valign="top">
+  🗓️ 2025 MMus <strong>Music for Films</strong><br/>
+  <a href="https://consbo.it/insegnamenti/musica-applicata-ind-musica-per-film-biennio/" target="_blank">Reference</a>
+</td>
+
+<td align="center" valign="top">
+  🗓️ Present Msc <strong>Music & Acoustic Engineering</strong><br/>
+  <a href="https://www.polimi.it/formazione/corsi-di-laurea-magistrale/dettaglio-corso/music-and-acoustic-engineering" target="_blank">Reference</a>
+</td>
+</tr>
+</table>
 </div>
 
 <h2 align="center">🛠️ Tech and Main Skills </h2>
