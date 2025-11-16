@@ -123,8 +123,3 @@ I'm a <br>
 
 ## 🧠 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-<div align="center">
-  <blockquote><em>“I'm testing the limits of what a mind can do.”</em></blockquote>
-  <p>© 2025 <a href="https://linktr.ee/filippoparis">Filippo Paris</a></p>
-</div>
