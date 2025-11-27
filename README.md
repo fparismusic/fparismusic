@@ -5,7 +5,7 @@
 </a>
 
 I'm a <br>
-💻<em> Software Engineering</em> <br>
+💻<em> Software Engineer</em> <br>
 🎛️<em> Audio Programmer</em> <br>
 🎶<em> Sound Designer & Music Composer</em> <br>
 
