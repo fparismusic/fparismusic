@@ -106,7 +106,7 @@ I'm a <br>
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1TrNwq5DpZ51ZnZ_wljH-d9rHOxg40E3b/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1XCCftULIiHqqxW8UpbNLoqtP7uid_r3H/view?usp=sharing" download>Download my resume</a>
 
 ---
 <div align="center">
