@@ -5,9 +5,10 @@
 </a>
 
 I'm a <br>
-💻<em> Software Engineer</em> <br>
+💻<em> Software & Acoustic Engineer</em> <br>
 🎛️<em> Audio Programmer</em> <br>
-🎶<em> Sound Designer & Music Composer</em> <br>
+🎬<em> Audio Post-Production Specialist</em> <br>
+🎶<em> Sound Designer & Composer</em> <br>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filippoparis)
