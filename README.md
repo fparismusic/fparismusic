@@ -96,7 +96,6 @@ I'm a <br>
 [![Interactive Audio](https://img.shields.io/badge/Interactive%20Audio-%23FFCC2F?logoColor=white)]()
 [![Mobile App Dev](https://img.shields.io/badge/Mobile%20App%20Dev-%23FFCC2F?logoColor=white)]()
 [![Music Production](https://img.shields.io/badge/Music%20Production-%23FFCC2F?logoColor=white)]()
-[![Multimedia Signal Processing](https://img.shields.io/badge/Multimedia%20Signal%20Processing-%23FFCC2F?logoColor=white)]()
 [![Orchestration & Arrangement](https://img.shields.io/badge/Orchestration%20%26%20Arrangement-%23FFCC2F?logoColor=white)]()
 [![Plugin Development](https://img.shields.io/badge/Plugin%20Development-%23FFCC2F?logoColor=white)]()
 [![Sampling & Synthesis](https://img.shields.io/badge/Sampling%20%26%20Synthesis-%23FFCC2F?logoColor=white)]()
