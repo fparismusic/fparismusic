@@ -73,34 +73,34 @@ I'm a <br>
 </tr>
 </table>
 </div>
-
----
  
 <h2 align="center">🛠️ Tech and Main Skills </h2>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,css,nodejs,python,matlab,processing,linux,github)](https://skillicons.dev)
+My technical background is built on versatility and a strong academic foundation. Throughout my entire studies, I have tackled a diverse range of software and artistic projects, navigating different languages and architectures.
 
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23006299?logoColor=white)]()
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23006299?logoColor=white)]()
-[![Web Development](https://img.shields.io/badge/Web%20Development-%23006299?logoColor=white)]()
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,js,html,css,nodejs,python,matlab,flutter,processing,linux,github)](https://skillicons.dev)
 
-[![Acoustics & Psychoacoustics](https://img.shields.io/badge/Acoustics%20%26%20Psychoacoustics-%23FFCC2F?logoColor=white)]()
-[![Audio Programming](https://img.shields.io/badge/Audio%20Programming-%23FFCC2F?logoColor=white)]()
-[![Audio/Video Post-Production](https://img.shields.io/badge/Audio%2FVideo%20Post--Production-%23FFCC2F?logoColor=white)]()
-[![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-%23FFCC2F?logoColor=white)]()
-[![Computer Music](https://img.shields.io/badge/Computer%20Music-%23FFCC2F?logoColor=white)]()
-[![Composition & Orchestration](https://img.shields.io/badge/Composition%20%26%20Orchestration-%23FFCC2F?logoColor=white)]()
-[![Electroacoustic Composition](https://img.shields.io/badge/Electroacoustic%20Composition-%23FFCC2F?logoColor=white)]()
-[![Foley & ADR](https://img.shields.io/badge/Foley%20%26%20ADR-%23FFCC2F?logoColor=white)]()
-[![Interactive Audio](https://img.shields.io/badge/Interactive%20Audio-%23FFCC2F?logoColor=white)]()
-[![Mobile App Dev](https://img.shields.io/badge/Mobile%20App%20Dev-%23FFCC2F?logoColor=white)]()
-[![Music Production](https://img.shields.io/badge/Music%20Production-%23FFCC2F?logoColor=white)]()
-[![Orchestration & Arrangement](https://img.shields.io/badge/Orchestration%20%26%20Arrangement-%23FFCC2F?logoColor=white)]()
-[![Plugin Development](https://img.shields.io/badge/Plugin%20Development-%23FFCC2F?logoColor=white)]()
-[![Sampling & Synthesis](https://img.shields.io/badge/Sampling%20%26%20Synthesis-%23FFCC2F?logoColor=white)]()
-[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%23FFCC2F?logoColor=white)]()
-[![Sound Design](https://img.shields.io/badge/Sound%20Design-%23FFCC2F?logoColor=white)]()
+[![Machine & Deep Learning](https://img.shields.io/badge/Machine%20&%20Deep%20Learning-%23006299?logoColor=white)]()
+[![Web & Mobile Development](https://img.shields.io/badge/Web%20&%20Mobile%20Development-%23006299?logoColor=white)]()
+
+[![Acoustics & Psychoacoustics](https://img.shields.io/badge/Acoustics%20%26%20Psychoacoustics-%23EE4B2B?logoColor=white)]()
+[![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-%23EE4B2B?logoColor=white)]()
+[![Computer Music](https://img.shields.io/badge/Computer%20Music-%23EE4B2B?logoColor=white)]()
+[![Creative Programming](https://img.shields.io/badge/Creative%20Programming%20and%20Computing-%23EE4B2B?logoColor=white)]()
+[![Multimodal Technologies](https://img.shields.io/badge/Multimodal%20Technologies-%23EE4B2B?logoColor=white)]()
+[![Signal Processing](https://img.shields.io/badge/Signal%20Processing-%23EE4B2B?logoColor=white)]()
+[![Vibration Analysis and Vibroacoustics](https://img.shields.io/badge/Vibration%20Analysis%20and%20Vibroacoustics-%23EE4B2B?logoColor=white)]()
+
+[![Audio Programming](https://img.shields.io/badge/Audio%20Programming-%23FFCE1B?logoColor=white)]()
+[![Audio/Video Post-Production](https://img.shields.io/badge/Audio%2FVideo%20Post--Production-%23FFCE1B?logoColor=white)]()
+[![Composition & Orchestration](https://img.shields.io/badge/Composition%20%26%20Orchestration-%23FFCE1B?logoColor=white)]()
+[![Foley & ADR](https://img.shields.io/badge/Foley%20%26%20ADR-%23FFCE1B?logoColor=white)]()
+[![Music Production](https://img.shields.io/badge/Music%20Production-%23FFCE1B?logoColor=white)]()
+[![Plugin Development](https://img.shields.io/badge/Plugin%20Development-%23FFCE1B?logoColor=white)]()
+[![Reaper](https://img.shields.io/badge/REAPER-%23FFCE1B?logoColor=white)]()
+[![Sibelius](https://img.shields.io/badge/SIBELIUS-%23FFCE1B?logoColor=white)]()
+[![Sound Design](https://img.shields.io/badge/Sound%20Design-%23FFCE1B?logoColor=white)]()
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
