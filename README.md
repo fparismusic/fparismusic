@@ -110,15 +110,16 @@ My technical background is built on versatility and a strong academic foundation
 > <a href="https://drive.google.com/file/d/1Q-bCizmu5qd4-P1N_lQUV7eokchV-YcP/view?usp=sharing" download>Download my resume</a>
 
 ---
-<div align="center">
+<!--<div align="center">
   <table>
     <tr>
-        <!--<td><img src="https://streak-stats.demolab.com/?user=fparismusic&layout=compact&theme=tokyonight&hide=html" width="100%"/></td>--> 
+        <!--<td><img src="https://streak-stats.demolab.com/?user=fparismusic&layout=compact&theme=tokyonight&hide=html" width="100%"/></td>
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fparismusic&layout=compact&theme=tokyonight&hide=html"/></td>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fparismusic&theme=tokyonight" width="100%"/></td>
     </tr>
   </table>
-</div>
+</div>--> 
+
 
 ## 🧠 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
