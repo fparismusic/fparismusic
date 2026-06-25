@@ -107,7 +107,7 @@ My technical background is built on versatility and a strong academic foundation
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1Q-bCizmu5qd4-P1N_lQUV7eokchV-YcP/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1wxVI6VK4BTspjJqu41WagUdHAsof8pr2/view?usp=drive_link" download>Download my resume</a>
 
 ---
 <div align="center">
